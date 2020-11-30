@@ -1,5 +1,4 @@
-# Pixlez
-
+# Pixlez [Deprecated as BlackBerry 10 Platform has been shut down]
 A Dribbble.com app for the BlackBerry10 platform
 
 this app was my first development experiment using QML/C++(not my area) /javascript .
